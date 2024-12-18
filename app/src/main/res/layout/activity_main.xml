@@ -23,6 +23,7 @@
         android:text="ADDITION"
         android:textColor="#F5FAF6F6" />
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/subb"
         android:layout_width="342dp"
         android:layout_height="wrap_content"
         android:layout_margin="22dp"
